@@ -1,0 +1,42 @@
+HORIZON EMOJI REFERENCE
+=======================
+
+Use the exact emoji IDs from your HorizonDev Discord server.
+
+From the screenshot supplied in the project conversation:
+
+horizon_10_sec_next   1538900137173188658
+horizon_10_sec_previous 1538900098224889897
+horizon_auto          1538886781121073202
+horizon_autoplay      1538889896461122754
+horizon_clean         1538886917205115420
+horizon_dev           1538886957084446823
+horizon_diamond       1538887005469933640
+horizon_gwy           1538886839174430750
+horizon_lock          1538886712829157487
+horizon_music         15388886972662226984
+horizon_next          1538900011012718602
+horizon_note          1538886889539637419
+horizon_play_pause    1538899994575241366
+horizon_playlist      1538900024988012604
+horizon_pop           1538886800553156788
+horizon_previous      153888998198981707251743
+horizon_queue         1538900037579313162
+horizon_repeat_song   15389000152570482798
+horizon_shield        1538886762468876368
+horizon_stop          1538900116466040852
+horizon_tag           153888693846509136
+horizon_tickets       1538886853418164295
+horizon_tool          1538886730537631906
+horizon_trigger       1538886867607363584
+horizon_wlc           1538886819444297909
+
+Animated:
+a:horizon            1538886693984149585
+a:horizon_tick       153888838871204557885
+a:horizon_cross      1538887679859499088
+
+IMPORTANT:
+The screenshot text extraction can contain OCR errors for long IDs.
+Before production, verify every emoji ID in Discord Developer Mode / your server.
+The bot will still work if an emoji ID is missing; it falls back to normal Unicode symbols where appropriate.
